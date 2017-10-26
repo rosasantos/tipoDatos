@@ -1,2 +1,2 @@
 Aquí se puede formatear el texto con negrita,...
-para definir mejor de que va mi repositorio
+para definir mejor de que va mi repositori y ---o
